@@ -6,7 +6,6 @@ This PowerShell script securely offboards users from Microsoft Entra ID (Azure A
 - Reads a list of usernames from CSV
 - Disables user accounts
 - Removes users from all security groups
-- Resets passwords
 - Logs actions to a file
 
 ## 🧪 Sample Input: `inactive_users.csv`
