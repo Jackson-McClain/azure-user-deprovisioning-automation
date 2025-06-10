@@ -9,11 +9,13 @@ This PowerShell script securely offboards users from Microsoft Entra ID (Azure A
 - Resets passwords
 - Logs actions to a file
 
-## 🧪 Sample Input: `users_to_deprovision.csv`
+## 🧪 Sample Input: `inactive_users.csv`
 ```csv
 Username
-ajohnson
-bthompson
 cnguyen
-dlopez
-ewang
+gholt
+kshaw
+nchen
+qbennett
+usingh
+yali
